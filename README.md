@@ -1,4 +1,4 @@
-# Sign Language Transformers (CVPR'20)
+# Sign Language Transformers
 
 This code is based on [Joey NMT](https://github.com/joeynmt/joeynmt) but modified to realize joint continuous sign language recognition and translation. For text-to-text translation experiments, you can use the original Joey NMT framework.
  
